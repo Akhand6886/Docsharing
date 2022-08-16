@@ -1,0 +1,17 @@
+import java.util.Scanner;
+
+public class triangle {
+
+    public static void main(String[] args) {
+
+        Scanner side1 = new Scanner(System.in);
+
+        System.out.print();
+        int num = side1.nextInt();
+
+        if(a + b == 0)
+            System.out.println();
+        else
+            System.out.println(;
+    }
+}
